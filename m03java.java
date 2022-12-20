@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-class Main {
+class m03java {
     public static void main(String[] args) {
         int num = 0;
         int intent = 0;
